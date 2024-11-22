@@ -1,0 +1,11 @@
+{
+    "name": "Post1",
+    "alias": "post1",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Post1\\Providers\\Post1ServiceProvider"
+    ],
+    "files": []
+}
